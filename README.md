@@ -31,7 +31,7 @@ Python package and command line interface (IDLE) for the analysis of whole genom
 #### Bioconda
 
 ```
-conda install -c bioconda  wgdi
+conda install -c conda-forge -c bioconda  wgdi
 ```
 
 #### Pypi
